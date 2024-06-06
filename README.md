@@ -5,6 +5,7 @@
 🔵 Computer Engineering Student - DUOC UC
 
 🔵 Programmer Back-end
+hola
 
 ### Social Networks 👾
 🔵 [***LINKEDIN***](https://www.linkedin.com/in/carlos-pardo-belmar-507860243/)
