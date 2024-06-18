@@ -1,14 +1,10 @@
-# ¡Hi 👋! I am PardoDev 👾
+# ¡Hi 👋! I am PardoDev👾
 
-![](https://komarev.com/ghpvc/?username=Pardo-Dev&color=blueviolet&style=for-the-badge)
-
-## About me!
-loremimpsuasjkdjaksdjkasdjkasdjd
-
+🔵 Full Stack Developer
 
 🔵 Computer Engineering Student - DUOC UC
 
-🔵 Full Stack Developer
+![](https://komarev.com/ghpvc/?username=Pardo-Dev&color=blueviolet&style=for-the-badge)
 
 ## Techonologies
 
