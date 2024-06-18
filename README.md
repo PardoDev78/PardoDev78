@@ -2,15 +2,24 @@
 
 ![](https://komarev.com/ghpvc/?username=Pardo-Dev&color=blueviolet&style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pardo-Dev&theme=chartreuse-dark) 
-🔵 Computer Engineering Student - DUOC UC
-
+<div>
+🔵 Computer Engineering Student - DUOC UC 
 🔵 Full Stack Developer
+<div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pardo-Dev&show_icons=true&theme=chartreuse-dark) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pardo-Dev&theme=chartreuse-dark)
+
+
+
+
+
 
 <hr/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pardo-Dev&show_icons=true&theme=chartreuse-dark) 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RegistrApp&theme=chartreuse-dark)](https://github.com/Pardo-Dev/RegistrApp)
 
 <h2>Popular repositories 👾</h2>
