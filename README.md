@@ -20,6 +20,9 @@
 
 <h2>Popular repositories 👾</h2>
 
+<h2>Technologies 👾</h2>
+
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="100">
 
 
 <h2> Social Networks 👾</h2>
