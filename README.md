@@ -2,30 +2,25 @@
 
 ![](https://komarev.com/ghpvc/?username=Pardo-Dev&color=blueviolet&style=for-the-badge)
 
-<div>
-🔵 Computer Engineering Student - DUOC UC 
-🔵 Full Stack Developer
-<div>
+🔵 Computer Engineering Student - DUOC UC
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pardo-Dev&show_icons=true&theme=chartreuse-dark) 
+🔵 Full Stack Developer
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pardo-Dev&theme=chartreuse-dark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RayoMkween-Taller_Mecanico&theme=chartreuse-dark)](https://github.com/Pardo-Dev/RayoMkween-Taller_Mecanico)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=Comandos-Git&theme=chartreuse-dark)](https://github.com/Pardo-Dev/Comandos-Git)
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pardo-Dev&show_icons=true&theme=chartreuse-dark) 
 
 <hr/>
-
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RegistrApp&theme=chartreuse-dark)](https://github.com/Pardo-Dev/RegistrApp)
 
 <h2>Popular repositories 👾</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RayoMkween-Taller_Mecanico&theme=chartreuse-dark)](https://github.com/Pardo-Dev/RayoMkween-Taller_Mecanico)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=Comandos-Git&theme=chartreuse-dark)](https://github.com/Pardo-Dev/Comandos-Git)
+
 
 <h2> Social Networks 👾</h2>
 
