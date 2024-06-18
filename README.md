@@ -11,6 +11,10 @@
   <img src="icons/linkedin.png" height=120>
 </a>
 
+<a href="https://discord.gg/KHErDgetDS">
+  <img src="icons/instagram.png" height=120>
+</a>
+
 <a href="https://www.instagram.com/_p4rd0.c_/">
   <img src="icons/instagram.png" height=120>
 </a>
