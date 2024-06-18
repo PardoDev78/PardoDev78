@@ -7,6 +7,14 @@
 🔵 Full Stack Developer
 
 ### Social Networks 👾
+<a href="https://www.linkedin.com/in/carlos-pardo-belmar-507860243/">
+  <img src="icons/linkedin.png" height=120>
+</a>
+
+<a href="https://www.instagram.com/_p4rd0.c_/">
+  <img src="icons/instagram.png" height=120>
+</a>
+
 🔵 [***LINKEDIN***](https://www.linkedin.com/in/carlos-pardo-belmar-507860243/)
 
 🔵 [***DISCORD SERVER***](https://discord.gg/aP2QZk25AY)
