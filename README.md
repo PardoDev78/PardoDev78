@@ -6,6 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Pardo-Dev&color=blueviolet&style=for-the-badge)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pardo-Dev&show_icons=true&theme=chartreuse-dark) 
+
 ## Techonologies
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,20 +27,19 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-pardo-belmar-507860243/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_p4rd0.c_/)
-
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pardo-Dev&theme=chartreuse-dark)
+
+## Popular Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RayoMkween-Taller_Mecanico&theme=chartreuse-dark)](https://github.com/Pardo-Dev/RayoMkween-Taller_Mecanico)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=Comandos-Git&theme=chartreuse-dark)](https://github.com/Pardo-Dev/Comandos-Git)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pardo-Dev&show_icons=true&theme=chartreuse-dark) 
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RegistrApp&theme=chartreuse-dark)](https://github.com/Pardo-Dev/RegistrApp)
+
+## Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-pardo-belmar-507860243/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_p4rd0.c_/)
 
