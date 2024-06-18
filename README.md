@@ -1,8 +1,8 @@
 # ¡Hi 👋! I am PardoDev👾
 
-🔵 Full Stack Developer
+- Full Stack Developer
 
-🔵 Computer Engineering Student - DUOC UC
+- Computer Engineering Student - DUOC UC
 
 ![](https://komarev.com/ghpvc/?username=Pardo-Dev&color=blueviolet&style=for-the-badge)
 
