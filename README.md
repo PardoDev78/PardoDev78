@@ -39,7 +39,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RegistrApp&theme=chartreuse-dark)](https://github.com/Pardo-Dev/RegistrApp)
 
-## Social
+## Social Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-pardo-belmar-507860243/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_p4rd0.c_/)
 
