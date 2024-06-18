@@ -6,6 +6,18 @@
 
 🔵 Full Stack Developer
 
+<hr/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pardo-Dev&theme=highcontrast) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pardo-Dev&show_icons=true&theme=highcontrast) 
+
+
+<h2>Popular repositories 👾</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RegistrApp&theme=highcontrast)](https://github.com/Pardo-Dev/RegistrApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RayoMkween-Taller_Mecanico&theme=highcontrast)](https://github.com/Pardo-Dev/RayoMkween-Taller_Mecanico)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=Comandos-Git&theme=highcontrast)](https://github.com/Pardo-Dev/Comandos-Git)
+
 <h2> Social Networks 👾</h2>
 
 <a href="https://www.linkedin.com/in/carlos-pardo-belmar-507860243/">
@@ -20,17 +32,14 @@
   <img src="icons/instagram.png" height=100>
 </a>
 
-<h2> Most used languages & Status 👾</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pardo-Dev&theme=highcontrast) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pardo-Dev&show_icons=true&theme=highcontrast) 
 
 
 
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RegistrApp&theme=highcontrast)](https://github.com/Pardo-Dev/RegistrApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RayoMkween-Taller_Mecanico&theme=highcontrast)](https://github.com/Pardo-Dev/RayoMkween-Taller_Mecanico)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=Comandos-Git&theme=highcontrast)](https://github.com/Pardo-Dev/Comandos-Git)
+
+
+
+
 
