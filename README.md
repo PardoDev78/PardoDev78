@@ -34,10 +34,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=Show-registered-networks-and-passwords&theme=chartreuse-dark)](https://github.com/Pardo-Dev/Show-registered-networks-and-passwords)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RayoMkween-Taller_Mecanico&theme=chartreuse-dark)](https://github.com/Pardo-Dev/RayoMkween-Taller_Mecanico)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=Comandos-Git&theme=chartreuse-dark)](https://github.com/Pardo-Dev/Comandos-Git)
-
-
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pardo-Dev&repo=RegistrApp&theme=chartreuse-dark)](https://github.com/Pardo-Dev/RegistrApp)
 
 ## Social Networks
